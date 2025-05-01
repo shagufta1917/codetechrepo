@@ -12,8 +12,7 @@ DURATION : 4 WEEKS
 
 MENTOR NAME : NEELA SANTOSH
 
-This Internship[ I have done with the help of vs code and some other google resource's  .
-out put:
-[sample.txt](https://github.com/user-attachments/files/19996860/sample.txt)
+This Internship[ I have done with the help of vs code and some other google resource's .
 
+out put:
 
